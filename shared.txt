@@ -1,5 +1,6 @@
 shared source code
-
 Original master alterationss
-
 First pull request for master.
+Original master alteration
+Altering this before a pull
+
